@@ -1,6 +1,6 @@
 Name: Nazeeha Harun
 
-
+**NOTE: All the code in display.c, simulator.h and makefile belong to Professor Mark Lanthier. It was provided to us by the professor as a starting point for this assignment.
 
 
 
